@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "dietcal", "dietcal\dietcal.csproj", "{CD3D89CE-B262-482A-BC99-3A94CB54BF32}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "DietManagement", "DietManagement\DietManagement.vdproj", "{AF371213-642B-4E71-94D9-11980A0EA499}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD3D89CE-B262-482A-BC99-3A94CB54BF32}.Debug|x86.ActiveCfg = Debug|x86
+		{CD3D89CE-B262-482A-BC99-3A94CB54BF32}.Debug|x86.Build.0 = Debug|x86
+		{CD3D89CE-B262-482A-BC99-3A94CB54BF32}.Release|x86.ActiveCfg = Release|x86
+		{CD3D89CE-B262-482A-BC99-3A94CB54BF32}.Release|x86.Build.0 = Release|x86
+		{AF371213-642B-4E71-94D9-11980A0EA499}.Debug|x86.ActiveCfg = Debug
+		{AF371213-642B-4E71-94D9-11980A0EA499}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
