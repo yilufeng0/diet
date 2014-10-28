@@ -33,12 +33,6 @@
         }
         "Entry"
         {
-        "MsmKey" = "8:_9B36CB00656A489E9BA500CEE9596B91"
-        "OwnerKey" = "8:_UNDEFINED"
-        "MsmSig" = "8:_UNDEFINED"
-        }
-        "Entry"
-        {
         "MsmKey" = "8:_UNDEFINED"
         "OwnerKey" = "8:_11DED6B894064CD0A89559D100B117F5"
         "MsmSig" = "8:_UNDEFINED"
@@ -203,26 +197,6 @@
             {
             "SourcePath" = "8:..\\20140502125658295_easyicon_net_128.ico"
             "TargetName" = "8:Form.ico"
-            "Tag" = "8:"
-            "Folder" = "8:_FE7B30DB162C483DAED804D7850D2A78"
-            "Condition" = "8:"
-            "Transitive" = "11:FALSE"
-            "Vital" = "11:TRUE"
-            "ReadOnly" = "11:FALSE"
-            "Hidden" = "11:FALSE"
-            "System" = "11:FALSE"
-            "Permanent" = "11:FALSE"
-            "SharedLegacy" = "11:FALSE"
-            "PackageAs" = "3:1"
-            "Register" = "3:1"
-            "Exclude" = "11:FALSE"
-            "IsDependency" = "11:FALSE"
-            "IsolateTo" = "8:"
-            }
-            "{1FB2D0AE-D3B9-43D4-B9DD-F88EC61E35DE}:_9B36CB00656A489E9BA500CEE9596B91"
-            {
-            "SourcePath" = "8:..\\..\\..\\..\\Dropbox\\Linux.ico"
-            "TargetName" = "8:Linux.ico"
             "Tag" = "8:"
             "Folder" = "8:_FE7B30DB162C483DAED804D7850D2A78"
             "Condition" = "8:"
